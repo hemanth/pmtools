@@ -66,7 +66,7 @@ npm run dev
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**: shadcn/ui
-- **AI Integration**: OpenAI API
+- **AI Integration**: Groq Cloud API
 - **Markdown**: React-Markdown
 
 ## License
