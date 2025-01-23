@@ -38,7 +38,7 @@ Generate PRDs, Epics, and User Stories with ease.
 
 - Node.js 18+
 - npm or yarn
-- OpenAI API key
+- Groq API key
 
 ### Installation
 
